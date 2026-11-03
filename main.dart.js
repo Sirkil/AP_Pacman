@@ -63384,7 +63384,7 @@ $2(a,b){return this.a.YO(a,b,this.b)},
 $S:83}
 A.a3K.prototype={
 $2(a,b){var s,r=null,q=this.b,p=this.a.d,o=20*q,n=t.E
-o=A.hC(A.m9(B.a2,A.d([new A.hU(B.j3,r,r,A.hG("Score  "+p.r,r,r,A.cY(r,r,B.by,r,r,r,r,r,r,r,r,o,r,r,B.aO,r,r,!0,r,r,r,r,r,r,r,r),r),r),A.kT(A.t7("assets/brand/ap_logo.png",r,42*q,180*q),r,r),new A.hU(B.j2,r,r,A.hG(A.k(Math.max(0,B.c.fJ(60-p.x)))+"s",r,r,A.cY(r,r,B.by,r,r,r,r,r,r,r,r,o,r,r,B.aO,r,r,!0,r,r,r,r,r,r,r,r),r),r)],n),B.bQ),48*q,1/0)
+o=A.hC(A.m9(B.a2,A.d([new A.hU(B.j3,r,r,A.hG("Score  "+p.r,r,r,A.cY(r,r,B.by,r,r,r,r,r,r,r,r,o,r,r,B.aO,r,r,!0,r,r,r,r,r,r,r,r),r),r),A.kT(A.t7("assets/brand/logo_ap_game.png",r,42*q,180*q),r,r),new A.hU(B.j2,r,r,A.hG(A.k(Math.max(0,B.c.fJ(60-p.x)))+"s",r,r,A.cY(r,r,B.by,r,r,r,r,r,r,r,r,o,r,r,B.aO,r,r,!0,r,r,r,r,r,r,r,r),r),r)],n),B.bQ),48*q,1/0)
 p=Math.max(0,p.y-p.x)
 s=14*q
 return A.OG(A.d([o,A.hC(A.kT(p>0?A.hG("POWER  "+B.c.N(p,1)+"s  \u2022  Eat the blue ghosts",r,r,A.cY(r,r,B.by,r,r,r,r,r,r,r,r,s,r,r,B.aO,r,r,!0,r,r,r,r,r,r,r,r),r):A.hG("Corner packs make ghosts edible",r,r,A.cY(r,r,B.by,r,r,r,r,r,r,r,r,s,r,r,B.ku,r,r,!0,r,r,r,r,r,r,r,r),r),r,r),24*q,r)],n),B.hW)},
